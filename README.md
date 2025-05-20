@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# About Me:
+
+⚡I’m currently working on<br> Developing web and desktop applications using VB.NET, Flask (Python)<br> I’m looking to collaborate on automation solutions, microservices, and internal tools for rental businesses, reporting systems, or Odoo-based projects<br> I’m looking for help with deploying scalable applications using Docker, and implementing Progressive Web Apps (PWA) with Flask<br> I’m currently learning advanced Scrum methodologies, Odoo ERP configuration, and improving my American English communication skills (aiming for B2)<br> Ask me about integrating external hardware (ePad, serial ports) into desktop/web systems, building dynamic reports in .NET, or automating tasks in Python. ⚡
 
 
 ## 🌐 Socials:
